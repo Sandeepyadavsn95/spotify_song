@@ -10,7 +10,7 @@ let masterSongName=  document.getElementById('masterSongName');
 let songItems=Array.from(document.getElementsByClassName('songItem'));
 
 let songs=[
-    {songName:"badsah", filePath:" https://www.mboxdrive.com/1.mp3", coverPath:"cover1.jpg"},
+    {songName:"badsah", filePath:"https://drive.google.com/file/d/1EvWUPiK-kF2MHRiR8X0I3TqjanabljZA/view?usp=sharing", coverPath:"cover1.jpg"},
     {songName:"no limit", filePath:" https://www.mboxdrive.com/2.mp3", coverPath:"cover1.jpg"},
     {songName:"aweli", filePath:"https://www.mboxdrive.com/3.mp3", coverPath:"cover1.jpg"},
     {songName:"Dilber", filePath:"https://www.mboxdrive.com/4.mp3", coverPath:"cover1.jpg"},
